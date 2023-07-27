@@ -1,2 +1,2 @@
 # Development-of-Locker-System-using-Fingerprint-Sensor-Face-Recognition
-Repository for Final Year Project 2022/2023
+Repository for 2022/2023 Final Year Project
